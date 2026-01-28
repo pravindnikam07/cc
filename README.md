@@ -1,2 +1,3 @@
 # cc
-Competitive coding
+
+This is for Competitive coding
